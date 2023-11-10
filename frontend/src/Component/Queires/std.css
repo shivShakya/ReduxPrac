@@ -1,0 +1,72 @@
+.std-details{
+       background-color: rgb(64, 78, 78);
+       color: white;
+       height: 50%;
+       width: 50%;
+       margin-left: 22em;
+       border-radius: 20px;
+       border: 2px solid black;
+       padding: 5px;
+       margin-top: 20px;
+       margin-bottom: 20px;
+}
+
+.std-details:hover{
+       background-color: rgb(144, 152, 157);
+       color: black;
+}
+
+.box-1{
+        width: 30rem;
+        background-color: rgb(34, 43, 43);
+        font-size: 2rem;
+        color: white;
+       text-align: center;
+}
+
+.input{
+        margin-top: 30px;
+        height: 2rem;
+        background-color: rgb(67, 91, 91);
+        font-size: 0.6rem;
+        color: white;
+}
+.sort{
+       height: 38px;
+       width: 300px;
+       border-radius: 5px;
+       margin-left: 5px;
+       margin-top: 30px;
+}
+.btn-age{
+         height: 38px;
+         width: 100px;
+         border-radius: 5px;
+         margin-left: 5px;
+}
+
+.nm-div{
+         display: flex;
+         justify-content: center;
+}
+
+.nm{
+        margin-right: 10rem;
+        font-size: 3rem;
+}
+
+.nm-div h5{
+        margin-right: 10px;
+}
+
+.c-div{
+        display: flex;
+        justify-content: center;
+        font-size: 60px;
+}
+
+.c-div h5{
+        margin-right: 4rem;
+       color: rgb(47, 47, 56);
+       font-size: large;
+}

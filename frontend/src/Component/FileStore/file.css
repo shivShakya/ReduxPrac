@@ -1,0 +1,21 @@
+.file-div{
+      background-color: rgb(52, 69, 69);
+      color: aliceblue;
+      font-size: 50px;
+      font-weight: bold;
+}
+
+.input-file{
+       height: 20px;
+}
+
+.file-btn{
+       height: 25px;
+       width: 100px;
+}
+
+.img-main{
+      width: 50%;
+      height: 50%
+}
+
